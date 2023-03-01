@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/ImageArray_Creator/FileContentIndex
+/.vs/ImageArray_Creator/v17
+/x64/Debug
+/src/image.png
